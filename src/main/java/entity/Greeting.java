@@ -1,6 +1,7 @@
 package entity;
 
 // Cambio en gretting
+// Nuevo cambio
 public class Greeting {
 	
 	private Long id;

@@ -8,5 +8,7 @@ import javax.persistence.Table;
 public class Category {
 	private Long id;
 	private String name;
+	
+	//Se genera otro cambio
 
 }
